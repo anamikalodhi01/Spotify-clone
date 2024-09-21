@@ -18,10 +18,10 @@ Clone the repository and open index.html in your browser:
    git clone <https://github.com/anamikalodhi01/Spotify-clone.git>
    cd Spotify-clone
    open index.html
+   ```
 
 ## 💡 Inspiration
 This project is built purely for educational purposes and UI/UX practice. While it doesn't stream music, it captures the essence of Spotify's design and user experience.
-
 
 ## Linkedin Post link 
 https://www.linkedin.com/posts/anamika-lodhi-b3a9a2289_webdevelopment-html-css-activity-7213825298939666432-sJQe?utm_source=share&utm_medium=member_desktop
