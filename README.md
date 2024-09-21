@@ -27,5 +27,8 @@ This project is built purely for educational purposes and UI/UX practice. While 
 https://www.linkedin.com/posts/anamika-lodhi-b3a9a2289_webdevelopment-html-css-activity-7213825298939666432-sJQe?utm_source=share&utm_medium=member_desktop
 
 ## Screen Recording of the Spotify Clone
+https://github.com/user-attachments/assets/3941cf89-a0ec-44be-aad8-b932d8b94a87
+
+
 
 
