@@ -15,7 +15,7 @@ Clone the repository and open index.html in your browser:
 
 1. **Clone the Repository**
    ```bash
-   git clone <https://github.com/anamikalodhi01/PDF-Analyser-Bot.git>
+   git clone <https://github.com/anamikalodhi01/Spotify-clone.git>
    cd Spotify-clone
    open index.html
 
