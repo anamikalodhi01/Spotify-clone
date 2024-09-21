@@ -13,11 +13,11 @@ Welcome to Spotify Clone – a visually stunning replica of the Spotify web inte
 ## 📁 Installation
 Clone the repository and open index.html in your browser:
 
-bash
-Copy code
-git clone https://github.com/your-username/spotify-clone.git
-cd spotify-clone
-open index.html
+1. **Clone the Repository**
+   ```bash
+   git clone <https://github.com/anamikalodhi01/PDF-Analyser-Bot.git>
+   cd Spotify-clone
+   open index.html
 
 ## 💡 Inspiration
 This project is built purely for educational purposes and UI/UX practice. While it doesn't stream music, it captures the essence of Spotify's design and user experience.
