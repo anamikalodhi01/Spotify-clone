@@ -12,4 +12,4 @@ public class Solution {
 			arr.set(k++, 0);
 		}
 	}
-}gti st
+}
